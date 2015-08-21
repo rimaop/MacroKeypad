@@ -1,8 +1,11 @@
 # MacroKeypad
 
 I created a macro keypad.
-Using the Arduino Micro
+
+Using the Arduino Micro.
+
 The keypad shortcuts that can be set in advance.
+
 
 ######feature
 - 3x3 keypad
